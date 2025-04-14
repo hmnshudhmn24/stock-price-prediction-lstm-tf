@@ -39,7 +39,3 @@ Displays a plot comparing real vs predicted stock prices.
 
 - `stock_lstm.py`: Main Python script
 - `README.md`: Documentation
-
-## 📚 Reference
-
-Inspired by traditional LSTM-based forecasting techniques in financial data science.
